@@ -9,12 +9,15 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
         <item>
-            <title><![CDATA[happy]]></title>
-            <link>https://1567544gzh.github.io/blog/2022/11/25/happy</link>
-            <guid>/2022/11/25/happy</guid>
+            <title><![CDATA[高兴诗]]></title>
+            <link>https://1567544gzh.github.io/blog/happy</link>
+            <guid>happy</guid>
             <pubDate>Fri, 25 Nov 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[今天我好高兴]]></description>
-            <content:encoded><![CDATA[<p>今天我好高兴</p>]]></content:encoded>
+            <description><![CDATA[今天天气真不错，我们大家来上课，老讲的真不错，真的真的很不错]]></description>
+            <content:encoded><![CDATA[<p>今天天气真不错，我们大家来上课，老讲的真不错，真的真的很不错</p>]]></content:encoded>
+            <category>随笔</category>
+            <category>高兴诗</category>
+            <category>jojo</category>
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
